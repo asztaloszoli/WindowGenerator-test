@@ -1,0 +1,1 @@
+<?php echo file_get_contents('c:\Users\aszta\AppData\Roaming\SketchUp\SketchUp 2024\SketchUp\Plugins\WindowGenerator teszt\window_module.rb'); ?>
